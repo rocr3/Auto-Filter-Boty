@@ -135,4 +135,4 @@ I can't find the <b>{}</b> in my database! 🥲
 
 - ꜱᴏᴜʀᴄᴇ - <a href=https://github.com/HA-Bots/Auto-Filter-Bot>ʜᴇʀᴇ</a>
 
-- ᴅᴇᴠʟᴏᴘᴇʀ -@AtWoner_bot
+- ᴅᴇᴠʟᴏᴘᴇʀ - @HA_Bots"""
