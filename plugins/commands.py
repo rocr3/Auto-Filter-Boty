@@ -160,7 +160,7 @@ async def start(client, message):
             ],[
                 InlineKeyboardButton("🔴 𝗛𝗢𝗪 𝗧𝗢 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗 🔴", url=settings['tutorial'])
             ]]
-            await message.reply(f"[{get_size(files.file_size)}] {files.file_name}\n\nYour file is ready, Please get using this link. 👍", reply_markup=InlineKeyboardMarkup(btn), protect_content=True)
+            await message.reply(f"[{get_size(files.file_size)}] {files.file_name}\n\nYour 𝗗𝗼𝘄𝗻𝗹𝗼𝗮𝗱 𝗟𝗶𝗻𝗸 👇", reply_markup=InlineKeyboardMarkup(btn), protect_content=True)
             return
     else:
         pass
